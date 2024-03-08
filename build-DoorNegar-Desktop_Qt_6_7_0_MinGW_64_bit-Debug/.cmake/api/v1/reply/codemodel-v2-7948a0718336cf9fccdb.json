@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e7a2a9ccb3288c675376.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DoorNegar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DoorNegar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DoorNegar-Debug-d4f02d3a4cde2c9008e5.json",
+					"name" : "DoorNegar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DoorNegar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DoorNegar_autogen-Debug-bf94598d77d88e2b5853.json",
+					"name" : "DoorNegar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DoorNegar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DoorNegar_autogen_timestamp_deps-Debug-0775d639198a00c5aa19.json",
+					"name" : "DoorNegar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/uniproject/build-DoorNegar-Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "D:/uniproject/DoorNegar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
